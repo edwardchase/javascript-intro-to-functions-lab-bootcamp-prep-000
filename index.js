@@ -16,7 +16,7 @@ console.log(`${string}`)
 
 function sayHiToGrandma(string) {
 string.toUpperCase === string
-return 'Yes Indeed!'
+return 'YES INDEED!'
 string.toLowerCase === string
 return 'I cant hear you!'
 }
